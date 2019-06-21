@@ -1,0 +1,8 @@
+# adding projects to git 
+git add .
+# cashing files 
+git add "*.php"
+# status 
+git status
+# git commit 
+git commit
